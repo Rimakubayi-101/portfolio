@@ -1,5 +1,5 @@
 // ============ Typing effect ============
-const roles = ["Sytsem Analsyt", "Information System", "Data Analyst"];
+const roles = ["System Analyst", "Data Analyst"];
 const textElement = document.getElementById("typingText");
 let roleIndex = 0, charIndex = 0, typingSpeed = 85, deletingSpeed = 40, isDeleting = false;
 function typeEffect() {
